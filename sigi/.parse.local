@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "sigi"
+    },
+    "sigi": {
+      "applicationId": "t37HqUVnsFosa7pkc4csDMKB60mGZIHRWmOnLFUz"
+    }
+  }
+}
